@@ -1,0 +1,59 @@
+// .loginWrap{
+//   padding: 10px;
+// }
+.login-left{
+  background:#F8F9FD;
+}
+.login-right{
+  background:#4C4F54;
+}
+.login-form-wrap{
+  padding:10% 2% 2% 2%;
+  font-size: 14px;
+}
+.lgicon{
+  background: transparent;
+  border: 0px;
+  border-bottom: 1px solid #fff;
+  border-radius: 0px;
+}
+.lgicon i{
+  color: #fff;
+}
+.login-text{
+  font-family: 'Domine', serif;
+
+}
+.login-form-wrap .mat-checkbox-label{
+  font-family: 'Bree Serif', serif;
+
+}
+.loginbox{
+  margin-top: 5%;
+  height:80%;
+  background: #fff;
+  border: 15px solid #fff;
+}
+.lginput{
+  background: transparent;
+  border: 0px;
+  border-bottom: 1px solid #fff;
+  border-radius: 0px;
+  color: #fff;
+}
+.lginput:focus{
+  box-shadow: none;
+ }
+ .centered {
+  position: fixed;
+  width: 60%;
+  height: 90%;
+  top: 20%;
+  left: 40%;
+  /* bring your own prefixes */
+  transform: translate(-40%, -20%);
+  border: 15px solid #fff;
+}
+.centered .row{
+  margin: 0px;;
+}

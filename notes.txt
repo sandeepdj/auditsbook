@@ -1,12 +1,12 @@
 Login Page Link
 
-   https://dribbble.com/shots/2076051-Login-Signin-Pagehttps://dribbble.com/shots/2076051-Login-Signin-Page
+https://dribbble.com/shots/2076051-Login-Signin-Page
 
 
    colors  :  #4C4F54
               #44C8BA
               #C8CBD0
               #9EA1A6
-              #F8F9FD 
+              #F8F9FD
 
 https://dribbble.com/shots/4276728-Employee-Profile
